@@ -5,7 +5,7 @@ players with skill-check mini-games and recipe-driven cooking mechanics.
 
 Perfect for chaotic couch co-op sessions with friends!
 
-# Cooking Game
+# Michelin Mayhem
 
 A chaotic 3D cooperative multiplayer cooking game built in Unity featuring physics-based ragdoll character control and dynamic kitchen mayhem.
 
